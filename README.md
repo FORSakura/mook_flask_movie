@@ -1,0 +1,2 @@
+# mook_flask_movie
+一个跟随慕课网开发的基于flask框架的微电影网站
